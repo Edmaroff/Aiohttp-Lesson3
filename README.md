@@ -3,7 +3,7 @@
 ---
 
 **Курс**: _«Другие подходы к web-разработке»_  
-**Вебинар**: 2   
+**Вебинар**: 3   
 **Тема**: _«Aiohttp»_
 
 [Задание](https://github.com/Edmaroff/Aiohttp-Lesson3/blob/main/initial_task.md)  
