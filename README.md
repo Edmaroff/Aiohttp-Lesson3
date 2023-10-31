@@ -6,6 +6,6 @@
 **Вебинар**: 2   
 **Тема**: _«Aiohttp»_
 
-[Задание](https://github.com/Edmaroff/Asyncio-Lesson3/blob/main/initial_task.md)  
+[Задание](https://github.com/Edmaroff/Aiohttp-Lesson3/blob/main/initial_task.md)  
 
 ---
